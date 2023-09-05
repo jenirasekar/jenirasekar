@@ -5,5 +5,5 @@
 - 📫 How to reach me: jenirasekar@gmail.com 
 - ⚡ Fun fact: a Niall Horan and MCU stan
 
-![snake gif]
-(https://github.com/jenirasekar/jenirasekar/blob/output/github-contribution-grid-snake.gif)
+![Snake animation]
+(https://github.com/jenirasekar/jenirasekar/blob/output/github-contribution-grid-snake.svg)
