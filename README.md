@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jenirasekar&show_icons=true&locale=en" alt="jenirasekar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jenirasekar&" alt="jenirasekar" /></p>
+
+<p align="left">&nbsp;<img align="center" src="https://github.com/jenirasekar/jenirasekar/blob/output/ocean.gif"/></p>
+
