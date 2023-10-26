@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jenira Sekar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenirasekar&label=Profile%20views&color=0e75b6&style=flat" alt="jenirasekar" /> </p>
 
-- 🌱 I’m currently learning **C# for desktop development**
+- 🌱 I’m currently learning **Java for desktop development**
 
 - 💬 Ask me about **Laravel in general and PHP Native**
 
