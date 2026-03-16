@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jenira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenirasekar&label=Profile%20views&color=0e75b6&style=flat" alt="jenirasekar" /> </p>
 
-- 🔭 I’m currently working on **web company profile**
+- 🔭 I’m currently studying at **Taizhou University majoring in comp sci**
 
-- 🌱 I’m currently learning **Next.js and Tailwind for FE development**
+- 🌱 I’m currently learning **Java EE, DBMS, and Python**
 
-- 💬 Ask me about **Laravel in general**
+- 💬 Ask me about **Marc Spector**
 
-- 📫 How to reach me **jenirasekar@gmail.com**
-
-- ⚡ Fun fact **a Niallie and MCU stan**
+- ⚡ Fun fact **a lover of Niall James Horan & Marc Spector**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
