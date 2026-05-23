@@ -15,3 +15,6 @@ I am currently studying at Taizhou University majoring in Computer Science.<br>I
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jenirasekar&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/jenirasekar/jenirasekar/snake-output/snake.svg" alt="Snake animation" />
+
+###
