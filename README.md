@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jenira</h1>
+<h1 align="center">Hi 👋 I'm Jenira</h1>
 
 # 💫 About Me:
 I am currently studying at Taizhou University majoring in Computer Science.<br>I am digging deeper to what this major covers to specify what I want to master.
@@ -13,8 +13,5 @@ I am currently studying at Taizhou University majoring in Computer Science.<br>I
 ![](https://github-readme-stats.shion.dev/api?username=jenirasekar&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=jenirasekar&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jenirasekar&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=jenirasekar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
